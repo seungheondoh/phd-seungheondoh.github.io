@@ -1,15 +1,14 @@
 [
     {
-        "title": "Can Large Language Models Predict Audio Effects Parameters from Natural Language?",
+        "title": "TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling",
         "category": "lm",
         "year": "2025",
-        "Authors": "Seungheon Doh, Junghyun Koo, Marco A. Martínez-Ramírez, Wei-Hsiang Liao, Juhan Nam, Yuki Mitsufuji",
-        "bookTitle": "Submitted to WASPAA 2025",
+        "Authors": "Seungheon Doh, Keunwoo Choi, and Juhan Nam",
+        "bookTitle": "The Workshop on AI for Music, Neural Information Processing Systems (NeurIPS-AI4Music), 2025",
         "bookCategory": "Conferences and Workshops",
         "material": {
-            "pdf": "https://arxiv.org/abs/2505.20770v1",
-            "code": "https://github.com/SonyResearch/LLM2Fx",
-            "demo": "https://seungheondoh.github.io/llm2fx-demo/"
+            "pdf": "https://arxiv.org/abs/2510.01698",
+            "demo": "https://talkpl.ai/p/talkplay_tools/"
         }
     },
     {
@@ -17,7 +16,7 @@
         "category": "lm",
         "year": "2025",
         "Authors": "Seungheon Doh, Keunwoo Choi, and Juhan Nam",
-        "bookTitle": "ArXiv 2025",
+        "bookTitle": "IEEE TASLP (Submitted)",
         "bookCategory": "Conferences and Workshops",
         "material": {
             "pdf": "https://arxiv.org/abs/2502.13713",
@@ -26,42 +25,14 @@
         }
     },
     {
-        "title": "CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages",
-        "category": "rep_learn",
-        "year": "2025",
-        "Authors": "Shangda Wu, Zhancheng Guo, Ruibin Yuan, Junyan Jiang, Seungheon Doh, Gus Xia, Juhan Nam, Xiaobing Li, Feng Yu, Maosong Sun",
-        "bookTitle": "ArXiv 2025",
-        "bookCategory": "Conferences and Workshops",
-        "material": {
-            "pdf": "https://arxiv.org/abs/2502.10362",
-            "code": "https://github.com/sanderwood/clamp3"
-        }
-    },
-    {
-        "title": "Music Discovery Dialogue Generation Using Human Intent Analysis and Large Language Model",
+        "title": "LLM2Fx-Tools: Tool Calling For Music Post-Production",
         "category": "lm",
-        "year": "2024",
-        "Authors": "Seungheon Doh, Keunwoo Choi, Daeyong Kwon, Taesu Kim, and Juhan Nam",
-        "bookTitle": "Proceedings of the 25th International Society for Music Information Retrieval Conference (ISMIR), 2024",
+        "year": "2025",
+        "Authors": "Seungheon Doh, Junghyun Koo, Marco A. Martínez-Ramírez, Woosung Choi, Wei-Hsiang Liao, Qiyu Wu, Juhan Nam, Yuki Mitsufuji",
+        "bookTitle": "ICLR 2026 (Submitted)",
         "bookCategory": "Conferences and Workshops",
         "material": {
-            "pdf": "https://arxiv.org/abs/2411.07439",
-            "dataset": "https://huggingface.co/collections/seungheondoh/lp-musicdialog-6734f28d42d8e0256cb23a1d",
-            "demo": "https://ismir24-anonymous.github.io/lp-music-dialogs-demo/"
-        }
-    },
-    {
-        "title": "Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval",
-        "category": "rep_learn",
-        "year": "2024",
-        "Authors": "SeungHeon Doh, Minhee Lee, Dasaem Jeong, Juhan Nam",
-        "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024",
-        "bookCategory": "Conferences and Workshops",
-        "material": {
-            "pdf": "https://arxiv.org/abs/2410.03264",
-            "dataset": "https://huggingface.co/collections/seungheondoh/enriching-music-descriptions-661e9342edcea210d61e981d",
-            "code": "https://github.com/seungheondoh/music-text-representation-pp",
-            "demo": "https://seungheondoh.github.io/music-text-representation-pp-demo/"
+            "pdf": "https://www.arxiv.org/abs/2512.01559"
         }
     },
     {
