@@ -12,6 +12,19 @@
         }
     },
     {
+        "title": "TalkPlayData-2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation",
+        "category": "lm",
+        "year": "2025",
+        "Authors": "Keunwoo Choi, Seungheon Doh, and Juhan Nam",
+        "bookTitle": "The International Conference on Learning Representations (ICLR-Under Review), 2025",
+        "bookCategory": "Conferences and Workshops",
+        "material": {
+            "pdf": "https://arxiv.org/abs/2509.09685",
+            "dataset": "https://huggingface.co/datasets/talkpl-ai/TalkPlayData-2",
+            "demo": "https://talkpl.ai/p/talkplaydata2/"
+        }
+    },
+    {
         "title": "TALKPLAY: Multimodal Music Recommendation with Large Language Models",
         "category": "lm",
         "year": "2025",
