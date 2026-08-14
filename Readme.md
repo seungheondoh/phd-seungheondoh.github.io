@@ -1,14 +1,5 @@
-after commit, deploy
+# Ph.D. website archive
 
-```
-nvm use 16
-git commit origin main
-npm run deploy
-```
+A dependency-free static archive of the React website used during Seungheon Doh's Ph.D. period.
 
-- This web demo working well @ node v16.19.1 (npm v8.19.3)
-
-referecne
-- https://github.com/rafgraph/spa-github-pages
-- https://github.com/remarkjs/react-markdown
-- https://github.com/willjw3/react-markdown-blog
+The original React source remains in `src/` and `public/` for historical reference, but the deployed site uses only `index.html`, `styles.css`, and `script.js`. No build step is required.
